@@ -1,14 +1,14 @@
 {
   "users":[
-    { "name": "User 1 Name", "register_date": "01/01/2019", "Company": "Company" },
-    { "name": "User 2 Name", "register_date": "02/01/2019", "Company": "Company" },
-    { "name": "User 3 Name", "register_date": "05/01/2019", "Company": "Company" },
-    { "name": "User 4 Name", "register_date": "16/01/2019", "Company": "Company" },
-    { "name": "User 5 Name", "register_date": "20/01/2019", "Company": "Company" },
-    { "name": "User 6 Name", "register_date": "20/01/2019", "Company": "Company" },
-    { "name": "User 7 Name", "register_date": "21/01/2019", "Company": "Company" },
-    { "name": "User 8 Name", "register_date": "29/01/2019", "Company": "Company" },
-    { "name": "User 9 Name", "register_date": "03/02/2019", "Company": "Company" },
-    { "name": "User 10 Name", "register_date": "07/02/2019", "Company": "Company" }
+    { "name": "Annette Tiyamike", "register_date": "01/01/2019", "Company": "Deadly Hollow Company" },
+    { "name": "Feidlimid Nikoloz", "register_date": "02/01/2019", "Company": "UV Corp." },
+    { "name": "Beata Hassan", "register_date": "05/01/2019", "Company": "UV Corp." },
+    { "name": "Vittoria Štěpán", "register_date": "16/01/2019", "Company": "UV Corp." },
+    { "name": "Beata Lughaidh", "register_date": "20/01/2019", "Company": "UV Corp." },
+    { "name": "Anu Kassandra", "register_date": "20/01/2019", "Company": "Deadly Hollow Company" },
+    { "name": "Lotta Makbule", "register_date": "21/01/2019", "Company": "Deadly Hollow Company" },
+    { "name": "Ludolf Kit", "register_date": "29/01/2019", "Company": "Deadly Hollow Company" },
+    { "name": "Jaylen Vilis", "register_date": "03/02/2019", "Company": "Deadly Hollow Company" },
+    { "name": "Monserrat Višnja", "register_date": "07/02/2019", "Company": "UV Corp." }
   ]
 }
